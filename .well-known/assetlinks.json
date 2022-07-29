@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.connectsmart.carpool.transit.gps.directions.rideshare.navigate",
+      "sha256_cert_fingerprints":
+        ["C2:8A:0B:40:B6:A7:6C:0B:D8:5E:0E:19:E0:D3:45:5B:2C:CB:50:05:1A:DB:BC:CF:06:FE:85:90:9F:7B:87:53"]
+    }
+  }
+]
